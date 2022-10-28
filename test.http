@@ -1,0 +1,11 @@
+GET https://store.steampowered.com/
+
+
+###
+
+HEAD https://overwatch.blizzard.com/en-us/
+
+
+###
+
+GET https://en.wikipedia.org/wiki/Milk
